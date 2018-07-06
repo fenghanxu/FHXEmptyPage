@@ -1,0 +1,16 @@
+PODS:
+  - FHXEmptyPage (0.1.0)
+
+DEPENDENCIES:
+  - FHXEmptyPage (from `../`)
+
+EXTERNAL SOURCES:
+  FHXEmptyPage:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXEmptyPage: 3650dce977d2c3935df0d876bfaa3e4af5f6b390
+
+PODFILE CHECKSUM: 5a88d93e1af2f365b1e74e32086950296ce49e20
+
+COCOAPODS: 1.4.0

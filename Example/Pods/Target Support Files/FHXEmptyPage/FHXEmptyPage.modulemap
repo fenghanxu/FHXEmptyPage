@@ -1,0 +1,6 @@
+framework module FHXEmptyPage {
+  umbrella header "FHXEmptyPage-umbrella.h"
+
+  export *
+  module * { export * }
+}

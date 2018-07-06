@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXEmptyPage_Example' do
+  pod 'FHXEmptyPage', :path => '../'
+
+  target 'FHXEmptyPage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
